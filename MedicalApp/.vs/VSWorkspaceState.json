@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MedicalAppApi\\Controllers",
+    "\\src",
+    "\\src\\Core\\Application",
+    "\\src\\Core\\Application\\Abstract",
+    "\\src\\Core\\Application\\Abstract\\Services",
+    "\\src\\Core\\Domain",
+    "\\src\\Infrastructure",
+    "\\src\\Infrastructure\\Persistence",
+    "\\src\\Infrastructure\\Persistence\\Services"
+  ],
+  "SelectedNode": "\\MedicalApp.sln",
+  "PreviewInSolutionExplorer": false
+}
